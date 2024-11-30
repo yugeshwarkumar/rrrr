@@ -1,5 +1,5 @@
-   [
-  {
+   [{
+  
     "name": "Basic Banking App",
     "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
     "image": "yugeshwar",
