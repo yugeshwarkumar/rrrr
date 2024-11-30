@@ -1,9 +1,4 @@
-   [{ "category": "mern",
-    "links": {
-      "view": "https://github.com/jigar-sable/WebChat#webchat",
-      "code": "https://github.com/jigar-sable/WebChat"
-    }
-  },
+   [
   {
     "name": "Basic Banking App",
     "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
