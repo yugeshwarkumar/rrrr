@@ -1,7 +1,7 @@
 [{
     "name": "Hulu Website",
     "desc": "Hulu website built using NextJS and tailwindCSS. API used TMDB, deployed on vercel.",
-    "image": "yugeshwar",
+    "image": "portfolio1.PNG",
     "category": "mern",
     "links": {
         "view": "https://hulu-clone-jigar-sable.vercel.app/",
